@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCA4twusx1ZUiCkrBOVZcFEbBuphpVu5pL06j2iboT9vkCGvr80/2Pss4tKUIBhai1m9w+a1HCCDl/SwAXtF5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VICTUS\\source\\repos\\battleship\\battleship\\battleship.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\VICTUS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\VICTUS\source\repos\battleship\battleship\bin\Debug\net6.0\battleship.exe
+C:\Users\VICTUS\source\repos\battleship\battleship\bin\Debug\net6.0\battleship.deps.json
+C:\Users\VICTUS\source\repos\battleship\battleship\bin\Debug\net6.0\battleship.runtimeconfig.json
+C:\Users\VICTUS\source\repos\battleship\battleship\bin\Debug\net6.0\battleship.dll
+C:\Users\VICTUS\source\repos\battleship\battleship\bin\Debug\net6.0\battleship.pdb
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.AssemblyInfoInputs.cache
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.AssemblyInfo.cs
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.csproj.CoreCompileInputs.cache
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.dll
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\refint\battleship.dll
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.pdb
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\battleship.genruntimeconfig.cache
+C:\Users\VICTUS\source\repos\battleship\battleship\obj\Debug\net6.0\ref\battleship.dll
